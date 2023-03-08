@@ -164,3 +164,4 @@ four changes
 five changes
 six changes
 >>>>>>> branch2
+seven changes
