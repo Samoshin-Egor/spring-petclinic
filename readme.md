@@ -165,3 +165,4 @@ five changes
 six changes
 >>>>>>> branch2
 seven changes
+eight changes
